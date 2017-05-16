@@ -1,2 +1,2 @@
 # DigitalIndia
-Hobby project related to Digital India initiatives
+Hobby projects related to Digital India initiatives
