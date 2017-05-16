@@ -21,6 +21,17 @@ Launched on 1 July 2015 by Prime Minister Narendra Modi, the initiative spans ac
 
 `Data` folder contains raw data.
 
+## list_domains.json 
+
+### Fields
+
+* `category`
+* `description`
+* `pubDate`
+* `title`
+* `link`
+* `guid`
+
 ## Numbers
 
 * List of websites : 10741
